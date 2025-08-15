@@ -1,0 +1,76 @@
+﻿  main.c
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(8,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(9,9): error C2065: 'MOV': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(9,13): error C2146: syntax error: missing ';' before identifier 'EAX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(9,13): error C2065: 'EAX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(10,9): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(10,9): error C2065: 'MOV': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(10,13): error C2146: syntax error: missing ';' before identifier 'ECX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(10,13): error C2065: 'ECX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(11,9): error C2146: syntax error: missing ';' before identifier 'LEA'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(11,9): error C2065: 'LEA': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(11,13): error C2146: syntax error: missing ';' before identifier 'ESI'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(11,13): error C2065: 'ESI': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(13,5): error C2146: syntax error: missing ';' before identifier 'l5'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(14,9): error C2065: 'DEC': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(14,13): error C2146: syntax error: missing ';' before identifier 'ECX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(14,13): error C2065: 'ECX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,9): error C2146: syntax error: missing ';' before identifier 'MOVZX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,9): error C2065: 'MOVZX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,15): error C2146: syntax error: missing ';' before identifier 'EBX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,15): error C2065: 'EBX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,20): error C2065: 'byte': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,25): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,25): error C2065: 'ptr': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,30): error C2065: 'ESI': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,36): error C2065: 'ECX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(15,29): error C2109: subscript requires array or pointer type
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(17,5): error C2146: syntax error: missing ';' before identifier 'l3'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(18,9): error C2065: 'CMP': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(18,13): error C2146: syntax error: missing ';' before identifier 'EBX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(18,13): error C2065: 'EBX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(19,9): error C2146: syntax error: missing ';' before identifier 'JE'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(19,9): error C2065: 'JE': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(19,12): error C2146: syntax error: missing ';' before identifier 'l1'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(19,12): error C2065: 'l1': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(20,9): error C2146: syntax error: missing ';' before identifier 'TEST'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(20,9): error C2065: 'TEST': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(20,14): error C2146: syntax error: missing ';' before identifier 'EBX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(20,14): error C2065: 'EBX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(21,9): error C2146: syntax error: missing ';' before identifier 'JZ'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(21,9): error C2065: 'JZ': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(21,12): error C2146: syntax error: missing ';' before identifier 'l2'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(21,12): error C2065: 'l2': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(22,9): error C2146: syntax error: missing ';' before identifier 'INC'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(22,9): error C2065: 'INC': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(22,13): error C2146: syntax error: missing ';' before identifier 'EAX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(22,13): error C2065: 'EAX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(23,5): error C2146: syntax error: missing ';' before identifier 'l2'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(24,9): error C2065: 'SHR': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(24,13): error C2146: syntax error: missing ';' before identifier 'EBX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(24,13): error C2065: 'EBX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(25,9): error C2146: syntax error: missing ';' before identifier 'JMP'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(25,9): error C2065: 'JMP': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(25,13): error C2146: syntax error: missing ';' before identifier 'l3'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(25,13): error C2065: 'l3': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(27,5): error C2146: syntax error: missing ';' before identifier 'l1'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(28,9): error C2065: 'CMP': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(28,13): error C2146: syntax error: missing ';' before identifier 'ECX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(28,13): error C2065: 'ECX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(29,9): error C2146: syntax error: missing ';' before identifier 'JZ'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(29,9): error C2065: 'JZ': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(29,12): error C2146: syntax error: missing ';' before identifier 'l4'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(29,12): error C2065: 'l4': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(30,9): error C2146: syntax error: missing ';' before identifier 'JMP'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(30,9): error C2065: 'JMP': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(30,13): error C2146: syntax error: missing ';' before identifier 'l5'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(30,13): error C2065: 'l5': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(32,5): error C2146: syntax error: missing ';' before identifier 'l4'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(33,9): error C2065: 'AND': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(33,13): error C2146: syntax error: missing ';' before identifier 'EAX'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(33,13): error C2065: 'EAX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(34,9): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(34,9): error C2065: 'MOV': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(34,13): error C2146: syntax error: missing ';' before identifier 'Ris'
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(34,18): error C2065: 'EAX': undeclared identifier
+C:\Users\luca.turillo\Desktop\es6\es6\es6\main.c(35,5): error C2143: syntax error: missing ';' before '}'

@@ -1,0 +1,3 @@
+Ciao! Questo e un testo di prova.
+Contiene vari caratteri: 123, lettere, simboli come @, #, e spazi.
+Proviamo a contare i caratteri alfanumerici qui!

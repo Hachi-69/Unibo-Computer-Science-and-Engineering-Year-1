@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luca.turillo\\Desktop\\es6\\es6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FD4C74-B89E-47DA-ACE8-149E04D7BA6C}|es6\\es6.vcxproj|C:\\Users\\luca.turillo\\Desktop\\es6\\es6\\es6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26FD4C74-B89E-47DA-ACE8-149E04D7BA6C}|es6\\es6.vcxproj|solutionrelative:es6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\luca.turillo\\Desktop\\es6\\es6\\es6\\main.c",
+              "RelativeDocumentMoniker": "es6\\main.c",
+              "ToolTip": "C:\\Users\\luca.turillo\\Desktop\\es6\\es6\\es6\\main.c",
+              "RelativeToolTip": "es6\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-09T11:39:12.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

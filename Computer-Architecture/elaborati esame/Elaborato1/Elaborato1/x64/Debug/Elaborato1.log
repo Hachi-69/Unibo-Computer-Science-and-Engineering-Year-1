@@ -1,0 +1,104 @@
+﻿  main.c
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(27,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(35,3): error C2065: 'lea': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(35,7): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(35,7): error C2065: 'esi': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(36,3): error C2146: syntax error: missing ';' before identifier 'lea'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(36,3): error C2065: 'lea': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(36,7): error C2146: syntax error: missing ';' before identifier 'edi'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(36,7): error C2065: 'edi': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(37,3): error C2146: syntax error: missing ';' before identifier 'lea'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(37,3): error C2065: 'lea': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(37,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(37,7): error C2065: 'ebx': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(40,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(40,3): error C2065: 'mov': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(40,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(40,7): error C2065: 'ecx': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(41,3): error C2146: syntax error: missing ';' before identifier 'calc_len'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,3): error C2065: 'mov': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,7): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,7): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,11): error C2065: 'byte': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,16): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,16): error C2065: 'ptr': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,20): error C2065: 'ebx': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,26): error C2065: 'ecx': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(42,19): error C2109: subscript requires array or pointer type
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(43,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(43,4): error C2065: 'cmp': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(43,8): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(43,8): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(44,4): error C2146: syntax error: missing ';' before identifier 'je'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(44,4): error C2065: 'je': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(44,7): error C2146: syntax error: missing ';' before identifier 'start_loop'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(44,7): error C2065: 'start_loop': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(45,4): error C2146: syntax error: missing ';' before identifier 'inc'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(45,4): error C2065: 'inc': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(45,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(45,8): error C2065: 'ecx': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(46,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(46,4): error C2065: 'jmp': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(46,8): error C2146: syntax error: missing ';' before identifier 'calc_len'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(46,8): error C2065: 'calc_len': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(48,4): error C2146: syntax error: missing ';' before identifier 'start_loop'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(49,3): error C2065: 'mov': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(49,7): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(49,7): error C2065: 'edx': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(51,4): error C2146: syntax error: missing ';' before identifier 'next_char'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,4): error C2065: 'mov': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,8): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,8): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,12): error C2065: 'byte': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,17): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,17): error C2065: 'ptr': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,21): error C2065: 'esi': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(52,20): error C2109: subscript requires array or pointer type
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(53,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(53,4): error C2065: 'cmp': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(53,8): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(53,8): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(54,4): error C2146: syntax error: missing ';' before identifier 'je'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(54,4): error C2065: 'je': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(54,7): error C2146: syntax error: missing ';' before identifier 'end'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(54,7): error C2065: 'end': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,4): error C2065: 'mov': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,8): error C2146: syntax error: missing ';' before identifier 'bl'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,8): error C2065: 'bl': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,12): error C2065: 'byte': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,17): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,17): error C2065: 'ptr': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(57,30): error C2065: 'edx': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(59,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(59,4): error C2065: 'cmp': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(59,8): error C2146: syntax error: missing ';' before identifier 'decifra'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(60,4): error C2146: syntax error: missing ';' before identifier 'je'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(60,4): error C2065: 'je': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(60,7): error C2146: syntax error: missing ';' before identifier 'cifra'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(60,7): error C2065: 'cifra': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(63,4): error C2146: syntax error: missing ';' before identifier 'sub'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(63,4): error C2065: 'sub': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(63,8): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(63,8): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(63,12): error C2065: 'bl': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(64,4): error C2146: syntax error: missing ';' before identifier 'and'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(64,4): error C2065: 'and': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(64,8): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(64,8): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(64,12): error C2059: syntax error: 'bad suffix on number'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(65,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(65,4): error C2065: 'jmp': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(65,8): error C2146: syntax error: missing ';' before identifier 'salva'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(65,8): error C2065: 'salva': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(67,4): error C2146: syntax error: missing ';' before identifier 'cifra'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(68,3): error C2065: 'add': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(68,7): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(68,7): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(68,11): error C2065: 'bl': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(69,4): error C2146: syntax error: missing ';' before identifier 'and'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(69,4): error C2065: 'and': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(69,8): error C2146: syntax error: missing ';' before identifier 'al'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(69,8): error C2065: 'al': undeclared identifier
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(69,12): error C2059: syntax error: 'bad suffix on number'
+C:\Users\turil\OneDrive\Documents\Visual Studio 2022\Elaborato1\Elaborato1\main.c(69,12): error C1003: error count exceeds 100; stopping compilation

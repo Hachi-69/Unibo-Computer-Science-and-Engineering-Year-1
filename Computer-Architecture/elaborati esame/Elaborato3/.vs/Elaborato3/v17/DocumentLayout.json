@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\turil\\OneDrive\\Documents\\Visual Studio 2022\\Elaborato3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27C525-8BD6-496B-B9B2-69C7CEECF59A}|Elaborato3\\Elaborato3.vcxproj|C:\\Users\\turil\\OneDrive\\Documents\\Visual Studio 2022\\Elaborato3\\Elaborato3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F27C525-8BD6-496B-B9B2-69C7CEECF59A}|Elaborato3\\Elaborato3.vcxproj|solutionrelative:Elaborato3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\turil\\OneDrive\\Documents\\Visual Studio 2022\\Elaborato3\\Elaborato3\\main.c",
+              "RelativeDocumentMoniker": "Elaborato3\\main.c",
+              "ToolTip": "C:\\Users\\turil\\OneDrive\\Documents\\Visual Studio 2022\\Elaborato3\\Elaborato3\\main.c",
+              "RelativeToolTip": "Elaborato3\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-25T14:59:30.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
